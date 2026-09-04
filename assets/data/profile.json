@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "name": {"en":"Arshia Taghipour","fa":"آرشیا تقی‌پور"},
+    "role": {"en":"Builder. Maker. Problem Solver.","fa":"سازنده. میکر. حل‌کنندهٔ مسئله."},
+    "tagline": {"en":"I turn curiosity into working systems — across hardware, code and physical prototypes.","fa":"کنجکاوی را به سیستم‌های واقعی تبدیل می‌کنم؛ از سخت‌افزار و کد تا نمونه‌های فیزیکی."},
+    "about": {"en":"I enjoy understanding how things work, then building my own version. My projects usually sit between embedded systems, IoT, web interfaces and digital fabrication.","fa":"دوست دارم بفهمم چیزها چطور کار می‌کنند و بعد نسخهٔ خودم را بسازم. پروژه‌هایم معمولاً در نقطهٔ تلاقی سیستم‌های نهفته، اینترنت اشیا، رابط‌های وب و ساخت دیجیتال قرار دارند."},
+    "email":"your-email@example.com",
+    "location":{"en":"Iran","fa":"ایران"},
+    "workspaceImage":"workspace.jpg"
+  }
+}

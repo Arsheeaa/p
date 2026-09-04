@@ -1,0 +1,16 @@
+{
+  "skills": [
+    {"id":"arduino","name":"Arduino","level":"strong","experience":"major","group":"embedded","projects":["relay-firebase","smart-home","ecg","plug","failover"]},
+    {"id":"iot","name":"IoT","level":"strong","experience":"major","group":"iot","projects":["relay-firebase","smart-home","ecg","plug","failover"]},
+    {"id":"esp","name":"ESP32 / ESP8266","level":"strong","experience":"major","group":"embedded","projects":["relay-firebase","smart-home","ecg","plug","failover"]},
+    {"id":"avr","name":"AVR","level":"practical","experience":"major","group":"embedded","projects":["avr"],"note":{"en":"Rusty lately, but previously used in several projects.","fa":"مدتی است کمتر سراغش رفته‌ام، اما چند پروژه با آن انجام داده‌ام."}},
+    {"id":"htmlcss","name":"HTML / CSS","level":"strong","experience":"major","group":"web","projects":["relay-firebase","smart-home","ecg","plug","failover"]},
+    {"id":"js","name":"JavaScript","level":"foundational","experience":"basic","group":"web","projects":["relay-firebase","smart-home"]},
+    {"id":"php","name":"PHP","level":"foundational","experience":"basic","group":"web","projects":[]},
+    {"id":"data","name":"MySQL / Firebase","level":"foundational","experience":"practical","group":"web","projects":["relay-firebase","smart-home","ecg","failover"]},
+    {"id":"kicad","name":"KiCad","level":"foundational","experience":"basic","group":"electronics","projects":[]},
+    {"id":"fusion","name":"Fusion 360","level":"practical","experience":"basic","group":"fabrication","projects":[]},
+    {"id":"printing","name":"3D Printing","level":"strong","experience":"major","group":"fabrication","projects":["printer"]},
+    {"id":"repair","name":"Electronics Repair","level":"practical","experience":"basic","group":"electronics","projects":[]}
+  ]
+}
